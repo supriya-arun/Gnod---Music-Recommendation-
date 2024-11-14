@@ -1,6 +1,5 @@
 # Gnod---Music-Recommendation-
 
-# Gnod - Music Recommendations
 
 This project, part of a Data Analytics Bootcamp, aims to develop a song recommender system for Gnod, a company specializing in music recommendations. The recommender will be designed to update and improve Gnod's current recommendation engine by tailoring music suggestions based on individual user song preferences. This project includes data collection, machine learning, and visualization components, culminating in a recorded presentation of the final proposal to Gnod's CEO.
 
