@@ -10,10 +10,6 @@ This project, part of a Data Analytics Bootcamp, aims to develop a song recommen
 - [Data Collection](#data-collection)
 - [Machine Learning](#machine-learning)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Project Description
 
